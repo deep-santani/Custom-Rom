@@ -1,0 +1,12 @@
+https://irfanhabeeb.com/ios-custom-rom/
+
+
+Before going to the deep detailing of IOS Custom Rom, You must know What really a custom rom?
+
+A custom ROM is an aftermarket firmware production based on the Android source code provided by Google.
+
+Many of the Top Mobile brands provides support through their own custom firmware and it is very important for them to have their own to drops support for their devices after 2-3 years of their launch.
+
+This article is to teach you how to turn your android interface to Iphone’s. Which is very easy now a days for tech savvy and also for normal users.
+
+(Some of you may already know about custom rom and how to do it and if you come only for downloading the rom file go to download section below)
